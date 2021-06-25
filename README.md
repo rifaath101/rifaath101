@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mohamed Rifaath
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me @rifaath101 on instagram
+- Hi, I’m Mohamed Rifaath
+- I’m interested in web development
+- I’m currently learning javascript
+- I'm Sri Lankan, 21 and I live in Dubai, U.A.E
+- Reach me at rifkirifaath@gmail.com
 
 <!---
 rifaath101/rifaath101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
