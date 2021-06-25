@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed Rifaath
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me @rifaath101 on instagram
 
