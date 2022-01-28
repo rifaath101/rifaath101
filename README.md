@@ -1,5 +1,5 @@
 - Hi, I’m Mohamed Rifaath
-- I’m interested in web development
+- A Front-end developer
 - I’m currently focusing on React
 - I'm Sri Lankan, 21 and I live in Dubai, U.A.E
 - Reach me at rifkirifaath@gmail.com
