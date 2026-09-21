@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Rifaath, a frontend engineer from Sri Lanka currently living in Dubai, United Arab Emirates
+Frontend engineer with 4+ years of experience building product interfaces in fintech, working on high-volume checkout platform across merchant integrations in the MENA region. Currently expanding into full-stack engineering — React on the frontend, Node/Express/PostgreSQL/Prisma on the backend. Based in Dubai.
 
 
 ## 🌐 Socials:
